@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "7d8a3122ce456993",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c5a44515a1bc9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97976622b3f891f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2659f3e62586884c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd0557cb951653b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f6d1a110a372f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "14a1936f474b1a81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "acb87efa27f391ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b5eab74329fb19d",
+    "type": "split",
+    "children": [
+      {
+        "id": "acf49b9bb76d7942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd753ff4f15aa7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "0e9403b5971af944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6e9ff0a77aec1cd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "10e4417cff395251",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false
+    }
+  },
+  "active": "97976622b3f891f3",
+  "lastOpenFiles": [
+    "1. Areas/Программирование/Язык Go/Golang intro.md",
+    "1. Areas/Программирование/Язык Go/Syntax/0. Go syntax.md",
+    "Без названия.canvas",
+    "2. Resources/Сайты/Go",
+    "2. Resources/Сайты",
+    "1. Areas/Программирование/Язык Go/Under the hood/Runtime Go/0. Go Runtime.md",
+    "1. Areas/Программирование/Язык Go/Under the hood/0. Go under the hood.md",
+    "2. Resources/Сайты/Go/Metanit golang.md",
+    "2. Resources/Разработка",
+    "1. Areas/Программирование/Язык Go/Under the hood/Go Compiler.md",
+    "1. Areas/Программирование/Язык Go/Under the hood/Runtime Go/Garbage Collector (GC).md",
+    "1. Areas/Программирование/Язык Go/Under the hood/Runtime Go/Scheduler.md",
+    "1. Areas/Программирование/Язык Go/Under the hood/Runtime Go/Memory allocator.md",
+    "1. Areas/Программирование/Язык Go/Без названия/Без названия",
+    "1. Areas/Программирование/Язык Go/Under the hood",
+    "Gorutines.md",
+    "Templates/Go_concept.md",
+    "1. Areas/Программирование/Язык Go/Syntax",
+    "Без названия.md",
+    "1. Areas/Программирование/Язык Go/Under the hood/Runtime Go",
+    "1. Areas/Программирование/Язык Go",
+    "1. Areas/Программирование/Backend dev",
+    "1. Areas/Программирование",
+    "Добро пожаловать.md"
+  ]
+}
